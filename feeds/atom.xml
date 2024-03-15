@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>QLD Crime Summary</title>
   <subtitle>Summary of crime incidents in the 4034 postcode</subtitle>
-  <updated>2024-03-15T10:59:34.332589</updated>
+  <updated>2024-03-15T11:03:48.388717</updated>
   <link href="https://qps-ocm.s3-ap-southeast-2.amazonaws.com/index.html"/>
   <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
   <entry>
     <title>Crime Summary for 2024-03-15</title>
-    <updated>2024-03-15T10:59:34.332601</updated>
-    <summary>Traffic and Related Offences: 5 incidents</summary>
-    <updated>2024-03-15T10:59:34.332604</updated>
-    <summary>Drug Offences: 1 incidents</summary>
+    <updated>2024-03-15T11:03:48.388726</updated>
+    <summary>Drug Offences: 1 incidents
+</summary>
   </entry>
 </feed>
