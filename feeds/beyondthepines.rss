@@ -4,6 +4,13 @@
         <title>BeyondThePines Blog Entries</title>
         <link>https://www.beyondthepines.com/blogs</link>
         <item>
+            <title>Something Exciting is Coming August 21st!</title>
+            <link>https://www.beyondthepines.com/blogs/The-Factory-Beyond-The-Pines</link>
+            <description>Beyond The Pines Presents: The Factory </description>
+            <pubDate>Sun, 18 Aug 2024 00:00:00 </pubDate>
+            <author>Angel Abad</author>
+        </item>
+        <item>
             <title>12 Totally “Brat” Songs From Britney Spears, Kim Petras, Slayyyter, And More</title>
             <link>https://www.beyondthepines.com/blogs/club-songs-similar-to-charli-xcx-brat</link>
             <description>“Brat” summer is incomplete without these essential club tracks.</description>
@@ -200,18 +207,18 @@
             <author>Rand Al-Hadethi</author>
         </item>
         <item>
-            <title>11 New Films To Keep On Your Radar For 2024</title>
-            <link>https://www.beyondthepines.com/blogs/2024-new-film-releases</link>
-            <description>Zendaya stars in two highly anticipated films, and a new Ryan Gosling action-comedy  indicates “Barbie” wasn’t a one-off return.</description>
-            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
-            <author>Rand Al-Hadethi</author>
-        </item>
-        <item>
             <title>A Juxtaposition Of Simplicity And Over-The-Top: 7 Milan Fashion Week Shows Worth Seeing</title>
             <link>https://www.beyondthepines.com/blogs/milan-fashion-week-fall-winter-2024</link>
             <description>Marni returns home, Adrian Appiolaza reveals the new Moschino &amp; Diesel livestreams from behind the curtain.</description>
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
             <author>Sydney Goldhawk</author>
+        </item>
+        <item>
+            <title>11 New Films To Keep On Your Radar For 2024</title>
+            <link>https://www.beyondthepines.com/blogs/2024-new-film-releases</link>
+            <description>Zendaya stars in two highly anticipated films, and a new Ryan Gosling action-comedy  indicates “Barbie” wasn’t a one-off return.</description>
+            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
+            <author>Rand Al-Hadethi</author>
         </item>
         <item>
             <title> Kristen Stewart, Hunter Schafer, Adam Sandler And More Attend The 2024 Berlin Film Festival</title>
@@ -396,18 +403,18 @@
             <author>Sydney Goldhawk</author>
         </item>
         <item>
-            <title>Is Music On The Brink Of A Mega Pop Revival?</title>
-            <link>https://www.beyondthepines.com/blogs/pop-music-revival-selena-gomez-miley-cyrus-olivia-rodrigo-addison-rae</link>
-            <description>New singles from Selena Gomez, Miley Cyrus, Olivia Rodrigo, and Addison Rae usher in another dance-pop renaissance, just when we thought the genre was out for good.</description>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 </pubDate>
-            <author>Andres Fabris</author>
-        </item>
-        <item>
             <title>How Second-Hand Shopping Became Elite, And The Conspicuous Consumption Of The Archive</title>
             <link>https://www.beyondthepines.com/blogs/second-hand-shopping-iding-fashion</link>
             <description>The online phenomenon begs the question: If you didn’t identify it, did you even wear it? </description>
             <pubDate>Wed, 23 Aug 2023 00:00:00 </pubDate>
             <author>Alexandra Hildreth</author>
+        </item>
+        <item>
+            <title>Is Music On The Brink Of A Mega Pop Revival?</title>
+            <link>https://www.beyondthepines.com/blogs/pop-music-revival-selena-gomez-miley-cyrus-olivia-rodrigo-addison-rae</link>
+            <description>New singles from Selena Gomez, Miley Cyrus, Olivia Rodrigo, and Addison Rae usher in another dance-pop renaissance, just when we thought the genre was out for good.</description>
+            <pubDate>Wed, 23 Aug 2023 00:00:00 </pubDate>
+            <author>Andres Fabris</author>
         </item>
         <item>
             <title>The AI Diversity Paradox: Fashion's Digital Solution, Or A Superficial Gesture?</title>
@@ -695,13 +702,6 @@
             <description>London Fashion Week's best shows were sustainable, sex-core, and highly wearable: From KNLWS to Poster Girl, these were the fiercest looks that slayed the boots house down.</description>
             <pubDate>Wed, 21 Sep 2022 00:00:00 </pubDate>
             <author>Fashion - Runway</author>
-        </item>
-        <item>
-            <title>Y-3's interpretation of the Gazelle is dropping tomorrow </title>
-            <link>https://www.beyondthepines.com/blogs/y-3_gazelle</link>
-            <description> Adidas most iconic shoe is being reworked by Yohji Yamamoto as Y-3 in core white leather. </description>
-            <pubDate>Tue, 20 Sep 2022 00:00:00 </pubDate>
-            <author>Fashion</author>
         </item>
     </channel>
 </rss>
