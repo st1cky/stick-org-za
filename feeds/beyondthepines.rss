@@ -4,6 +4,13 @@
         <title>BeyondThePines Blog Entries</title>
         <link>https://www.beyondthepines.com/blogs</link>
         <item>
+            <title>Spring/Summer 2025 Fashion Report: A Comprehensive Runway Breakdown</title>
+            <link>https://www.beyondthepines.com/blogs/ss25-fashion-month-report</link>
+            <description/>
+            <pubDate>Thu, 17 Oct 2024 00:00:00 </pubDate>
+            <author>Angela Li</author>
+        </item>
+        <item>
             <title>A Shawn Mendes Album, New Kylie Minogue, and More Music Still On The Way This Month</title>
             <link>https://www.beyondthepines.com/blogs/october-2024-new-music-releases</link>
             <description>Following Charli XCX’s third “Brat” installation, Shawn Mendes returns from a five-year hiatus, and former Little Mix’s JADE releases a solo single.</description>
@@ -487,18 +494,18 @@
             <author>Sydney Goldhawk</author>
         </item>
         <item>
-            <title>How Second-Hand Shopping Became Elite, And The Conspicuous Consumption Of The Archive</title>
-            <link>https://www.beyondthepines.com/blogs/second-hand-shopping-iding-fashion</link>
-            <description>The online phenomenon begs the question: If you didn’t identify it, did you even wear it? </description>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 </pubDate>
-            <author>Alexandra Hildreth</author>
-        </item>
-        <item>
             <title>Is Music On The Brink Of A Mega Pop Revival?</title>
             <link>https://www.beyondthepines.com/blogs/pop-music-revival-selena-gomez-miley-cyrus-olivia-rodrigo-addison-rae</link>
             <description>New singles from Selena Gomez, Miley Cyrus, Olivia Rodrigo, and Addison Rae usher in another dance-pop renaissance, just when we thought the genre was out for good.</description>
             <pubDate>Wed, 23 Aug 2023 00:00:00 </pubDate>
             <author>Andres Fabris</author>
+        </item>
+        <item>
+            <title>How Second-Hand Shopping Became Elite, And The Conspicuous Consumption Of The Archive</title>
+            <link>https://www.beyondthepines.com/blogs/second-hand-shopping-iding-fashion</link>
+            <description>The online phenomenon begs the question: If you didn’t identify it, did you even wear it? </description>
+            <pubDate>Wed, 23 Aug 2023 00:00:00 </pubDate>
+            <author>Alexandra Hildreth</author>
         </item>
         <item>
             <title>The AI Diversity Paradox: Fashion's Digital Solution, Or A Superficial Gesture?</title>
@@ -662,16 +669,16 @@
             <author>Ash Alanis</author>
         </item>
         <item>
-            <title>Patricia Velasquez by Marc Hispard, 1993</title>
-            <link>https://www.beyondthepines.com/blogs/PatriciaVelasquez-MarcHispard1993</link>
-            <description/>
+            <title>How we produced our 100% recycled bottle cap beanies</title>
+            <link>https://www.beyondthepines.com/blogs/beanies</link>
+            <description>Supersoft and super sustainable. Enabling the utilization of recycled materials in place of new material with merely a small change to the processing method. </description>
             <pubDate>Tue, 06 Dec 2022 00:00:00 </pubDate>
             <author>Ash Alanis</author>
         </item>
         <item>
-            <title>How we produced our 100% recycled bottle cap beanies</title>
-            <link>https://www.beyondthepines.com/blogs/beanies</link>
-            <description>Supersoft and super sustainable. Enabling the utilization of recycled materials in place of new material with merely a small change to the processing method. </description>
+            <title>Patricia Velasquez by Marc Hispard, 1993</title>
+            <link>https://www.beyondthepines.com/blogs/PatriciaVelasquez-MarcHispard1993</link>
+            <description/>
             <pubDate>Tue, 06 Dec 2022 00:00:00 </pubDate>
             <author>Ash Alanis</author>
         </item>
@@ -695,13 +702,6 @@
             <description>Beyond the Pines is not identified with a single product family, but evokes a broad spectrum of values and meanings.</description>
             <pubDate>Thu, 17 Nov 2022 00:00:00 </pubDate>
             <author>Ash Alanis</author>
-        </item>
-        <item>
-            <title>Hiding in Plain Sight by Kristian Eustace</title>
-            <link>https://www.beyondthepines.com/blogs/KristianEustace</link>
-            <description>Photos of Muse, Kate Clarine</description>
-            <pubDate>Tue, 15 Nov 2022 00:00:00 </pubDate>
-            <author>Photography</author>
         </item>
     </channel>
 </rss>
